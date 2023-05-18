@@ -10,7 +10,7 @@
 
 > Link : [Paper Review 02 - Face Mask Detection using Convolutional Neural Network (CNN) to reduce the spread of Covid-19.pdf](https://github.com/aatansen/Paper-Review/blob/main/Submission02/01%20Review%20Papers/Paper%20Review%2002%20-%20Face%20Mask%20Detection%20using%20Convolutional%20Neural%20Network%20(CNN)%20to%20reduce%20the%20spread%20of%20Covid-19.pdf)
 
-> Source : [Face Mask Detection using Convolutional Neural Network (CNN) to reduce the spread of Covid-19](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=B_jBQo0AAAAJ&citation_for_view=B_jBQo0AAAAJ:W7OEmFMy1HYC)
+> Source : [Face Mask Detection using Convolutional Neural Network (CNN) to reduce the spread of Covid-19](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=B_jBQo0AAAAJ&citation_for_view=B_jBQo0AAAAJ:d1gkVwhDpl0C)
 
 ### Paper Review 03
 
